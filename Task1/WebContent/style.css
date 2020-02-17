@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+body{
+	
+	background-color: #eab3b3;
+}
+
+.loginBox {
+	border-style: solid;
+	width: 350px;
+	padding: 10px;
+	margin: 10px;
+	background-color: coral;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+img {
+	align: center;
+	width: 100px;
+	height: 100px;
+	margin: 50px;
+}
+
+.head {
+	float: right;
+	text-align: center;
+	border-style: solid;
+	width: 150px;
+}
+
+.Add {
+	border-style: solid;
+	width: 350px;
+	padding: 10px;
+	margin: 10px;
+	background-color: coral;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.Addi {
+	border-style: solid;
+	width: 450px;
+	padding: 10px;
+	margin: 10px;
+	background-color: coral;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.center {
+	align-items: center;
+}
